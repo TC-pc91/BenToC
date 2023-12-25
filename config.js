@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Mastodon',
+			icon: 'mastodon',
+			link: 'https://mastodon.uno/',
 		},
 		{
 			id: '2',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Video',
+			icon: 'youtube',
+			link: 'https://invidious.private.coffee',
 		},
 		{
 			id: '4',
@@ -77,54 +77,54 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Free Music Archive',
+			icon: 'music',
+			link: 'https://freemusicarchive.org',
 		},
 		{
 			id: '6',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'WFMU',
+			icon: 'radio',
+			link: 'https://wfmu.org/',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
+			name: 'Spotify',
 			icon: 'headphones',
 			link: 'https://open.spotify.com',
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'News',
+			icon: 'news',
+			link: 'https://news.google.com/',
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'Drive',
+			icon: 'drive',
+			link: 'https://drive.google.com',
 		},
 		{
 			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://amazon.it/',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'TommasoCroce.eu',
+			icon: 'web',
+			link: 'https://tommasocroce.eu/',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'Flickr',
+			icon: 'flickr',
+			link: 'https://flickr.com/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Kren',
-					link: 'https://www.youtube.com/playlist?list=PLgF_gQh7OwJzwtN08b5oQ_-s3uZ6IsLp-',
+					name: 'BoC',
+					link: 'https://inv.vern.cc/playlist?list=PLBAF-gQw1eB-Odosh4tIRJU8SMbHRz3d6',
 				},
 				{
-					name: 'Underrated',
-					link: 'https://www.youtube.com/playlist?list=PLWTjjEmzNQCvKwhXmedIRmxXU-nUy7XIi',
+					name: 'Tycho',
+					link: 'https://inv.vern.cc/playlist?list=PLF333AB8AE1483E46',
 				},
 				{
-					name: 'Japanese',
-					link: 'https://www.youtube.com/playlist?list=PLWTjjEmzNQCt67v5-tO3_sA6sCaepg5I-',
+					name: 'AFX',
+					link: 'https://inv.vern.cc/playlist?list=PLt4WEFLBaIMAgKzOi76bZYrFZPCSZ-yIC',
 				},
 				{
-					name: 'Lofi',
-					link: 'https://www.youtube.com/live/lHpYyYtkmrw?si=Cv6wNnDWWhJGlL65',
+					name: 'KGATLW',
+					link: 'https://inv.vern.cc/playlist?list=PLquS-Ow7u33iXC_uyWW16H_AtFU40z86W',
 				},
 			],
 		},
@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Bitwig Guide',
+					link: 'https://www.bitwig.com/userguide/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'Flickr',
+					link: 'https://www.flickr.com',
 				},
 				{
 					name: 'Spotify',
